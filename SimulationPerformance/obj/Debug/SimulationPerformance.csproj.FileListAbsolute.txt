@@ -1,0 +1,16 @@
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\bin\Debug\SimulationPerformance.exe.config
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\bin\Debug\SimulationPerformance.exe
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\bin\Debug\SimulationPerformance.pdb
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\SimulationPerformance.csproj.AssemblyReference.cache
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\SimulationPerformance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\MainWindow.g.cs
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\App.g.cs
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\SimulationPerformance_MarkupCompile.cache
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\SimulationPerformance_MarkupCompile.lref
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\MainWindow.baml
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\SimulationPerformance.g.resources
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\SimulationPerformance.Properties.Resources.resources
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\SimulationPerformance.csproj.GenerateResource.cache
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\SimulationPerformance.csproj.CoreCompileInputs.cache
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\SimulationPerformance.exe
+C:\Users\Alpa Desai\Documents\source\repos\SimulationPerformance\SimulationPerformance\SimulationPerformance\obj\Debug\SimulationPerformance.pdb
