@@ -48,4 +48,7 @@ Confidential information is not displayed.
 ## Validation 
 ![image](Validation.jpg)
 
+## Final Project
+![image](FinalProject.jpg)
+
 Please download the executable in https://github.com/alpaddesai/SimulationPerformance/releases/ for details.
