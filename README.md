@@ -6,6 +6,12 @@ Confidential information is not displayed.
 
 ![image](DiscreteEventSimulator.jpg)
 
+## Sales
+![image](Sales.jpg)
+
+## Profit Margins
+![image](ProfitMargins.jpg)
+
 ## Revenue Streams
 ![image](RevenueStreamsPCBs.jpg)
 
@@ -41,6 +47,5 @@ Confidential information is not displayed.
 
 ## Validation 
 ![image](Validation.jpg)
-
 
 Please download the executable in https://github.com/alpaddesai/SimulationPerformance/releases/ for details.
