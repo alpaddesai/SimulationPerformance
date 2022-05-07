@@ -1,8 +1,6 @@
 # Simulation Performance
 
-The project provides an introduction to simulation performance and modelling
-
-Confidential information is not displayed.
+The project provides an introduction to simulation performance and modelling. Confidential information is not displayed.Custom images created by Alpa D. Desai.
 
 ![image](DiscreteEventSimulator.jpg)
 
