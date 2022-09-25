@@ -52,4 +52,6 @@ The project provides an introduction to simulation performance and modelling. Co
 ## Java
 ![image](Java.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Please download the executable in https://github.com/alpaddesai/SimulationPerformance/releases/ for details.
