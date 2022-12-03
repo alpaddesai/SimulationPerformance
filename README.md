@@ -56,4 +56,4 @@ The project provides an introduction to simulation performance and modelling. Co
 
 ![image](Ethics.jpg)
 
-Please download the executable in https://github.com/alpaddesai/SimulationPerformance/releases/ for details.
+Please reference https://github.com/alpaddesai/Algorithms for details
