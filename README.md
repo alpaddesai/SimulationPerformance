@@ -49,8 +49,26 @@ The project provides an introduction to simulation performance and modelling. Co
 ## Final Project
 ![image](FinalProject.jpg)
 
-## Java
+## Java Application
 ![image](Java.jpg)
+
+## Java Application
+![image](SimulationPerformance1.JPG)
+
+## Java Applicaiton
+![image](SimulationPerformance2.JPG)
+
+## Java Applicaiton
+![image](SimulationPerformance3.JPG)
+
+## Java Applicaiton
+![image](SimulationPerformance4.JPG)
+
+## Java Applicaiton
+![image](SimulationPerformance5.JPG)
+
+## Java Applicaiton
+![image](SimulationPerformance6.JPG)
 
 ![image](USCopyrightCertificate.png)
 
