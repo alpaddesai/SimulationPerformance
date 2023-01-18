@@ -46,11 +46,11 @@ The project provides an introduction to simulation performance and modelling. Co
 ## Validation 
 ![image](Validation.jpg)
 
-## Final Project
-![image](FinalProject.jpg)
-
 ## Java Application
 ![image](Java.jpg)
+
+## Final Project
+![image](FinalProject.jpg)
 
 ## Java Application
 ![image](SimulationPerformance1.JPG)
