@@ -6,6 +6,8 @@ The project provides an introduction to simulation performance and modelling. Co
 
 ![image](ProjectTracking.jpg)
 
+![image](Java.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
