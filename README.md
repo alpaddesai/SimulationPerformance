@@ -4,6 +4,8 @@ The project provides an introduction to simulation performance and modelling. Co
 
 ![image](DiscreteEventSimulator.jpg)
 
+![image](ProjectTracking.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
