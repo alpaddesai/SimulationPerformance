@@ -8,6 +8,14 @@ The project provides an introduction to simulation performance and modelling. Co
 
 ![image](Java.jpg)
 
+![image](ChangeManagementProcessI.JPG)
+
+![image](ChangeManagementProcessII.JPG)
+
+![image](ChangeManagementProcessIII.JPG)
+
+![image](ChangeManagementProcessIV.JPG)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
