@@ -22,6 +22,9 @@ The project provides an introduction to simulation performance and modelling. Co
 ## Java project resource allocation
 ![image](ResourceAllocationVacation.jpg)
 
+## Java project 
+![image](resourceAllocationSocialEngagements.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
