@@ -6,8 +6,6 @@ The project provides an introduction to simulation performance and modelling. Co
 
 ![image](ProjectTracking.jpg)
 
-![image](Java.jpg)
-
 ![image](ChangeManagementProcessI.JPG)
 
 ![image](ChangeManagementProcessII.JPG)
