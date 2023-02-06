@@ -4,24 +4,6 @@ The project provides an introduction to simulation performance and modelling. Co
 
 ![image](DiscreteEventSimulator.jpg)
 
-![image](ProjectTracking.jpg)
-
-![image](ChangeManagementProcessI.JPG)
-
-![image](ChangeManagementProcessII.JPG)
-
-![image](ChangeManagementProcessIII.JPG)
-
-![image](ChangeManagementProcessIV.JPG)
-
-## Java project
-![image](JavaProject1.png)
-
-## Java project resource allocation
-![image](ResourceAllocationVacation.jpg)
-
-## Java project 
-![image](resourceAllocationSocialEngagements.jpg)
 
 ![image](USCopyrightCertificate.png)
 
