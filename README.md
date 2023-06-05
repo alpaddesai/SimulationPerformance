@@ -67,6 +67,9 @@ The project provides an introduction to simulation performance and modelling. Co
 ## Java Application
 ![image](SimulationPerformance5.png)
 
+## Java Programming
+![image](ProgramminginJava.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
